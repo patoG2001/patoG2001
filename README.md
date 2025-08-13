@@ -37,12 +37,7 @@ Music Industry Analytics | Ticket Sales Forecasting | Event Data Analysis
 
 ## 📂 Featured Projects
 
-### 🎵 Music Recommendation System  
-Hybrid collaborative filtering + deep learning model for personalized music discovery.  
-[Repository Link](https://github.com/yourusername/music-recommendation)  
-
-*Add screenshot or GIF here*  
-![Music Rec System](link-to-image-or-gif)
+### 🎵 Music Recommendation System (Still in progress...)  
 
 ---
 
@@ -50,17 +45,11 @@ Hybrid collaborative filtering + deep learning model for personalized music disc
 Predictive analytics with interactive Power BI dashboards forecasting ticket sales trends.  
 [Repository Link](https://github.com/yourusername/event-ticketing-analytics)  
 
-*Add dashboard preview image*  
-![Ticketing Analytics](link-to-image)
-
 ---
 
 ### 🧠 Deep Learning Image Classifier  
 CNN model achieving >90% accuracy on complex image datasets.  
 [Repository Link](https://github.com/yourusername/deep-learning-image-classifier)  
-
-*Add model results or sample images*  
-![Image Classifier](link-to-image)
 
 ---
 
@@ -75,8 +64,8 @@ CNN model achieving >90% accuracy on complex image datasets.
 
 ## 📩 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patricio-galvan-ledo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://olympus.mygreatlearning.com/eportfolio)  
 
 ---
 
