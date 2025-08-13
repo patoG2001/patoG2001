@@ -67,12 +67,8 @@ CNN model achieving >90% accuracy on complex image datasets.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patricio-galvan-ledo)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://olympus.mygreatlearning.com/eportfolio)  
 
----
-
-## 📊 GitHub Stats  
-<!-- You can embed GitHub stats using third-party services like github-readme-stats -->
-![Patricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
 ---
 
 *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+
