@@ -57,7 +57,7 @@ CNN model achieving >90% accuracy on complex image datasets.
 
 - 🎓 MIT Professional Education – Applied Data Science Graduate (2025)  
 - 🎓 HarvardX – CS50x Computer Science Graduate (2025)  
-- 🏆 Leadership: Scout Troop Leader & Band Director  
+- 🏆 Leadership: Scout Troop Leader & Band Leader  
 - 🎯 Passionate about combining creativity with data-driven innovation to deliver real impact  
 
 ---
@@ -71,4 +71,5 @@ CNN model achieving >90% accuracy on complex image datasets.
 ---
 
 *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+
 
