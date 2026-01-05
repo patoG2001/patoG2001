@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m passionate about leveraging AI, machine learning, an
   HarvardX CS50x Computer Science (2025)  
 
 - 🎵 **Specialization:**  
-  Music analytics, recommendation systems, event ticketing insights  
+  Music analytics, recommendation systems, and event ticketing insights.
 
 - 🌍 **Languages:**  
   Spanish (Native), English (Fluent), French (Intermediate), Chinese (Basic)  
@@ -37,19 +37,25 @@ Music Industry Analytics | Ticket Sales Forecasting | Event Data Analysis
 
 ## 📂 Featured Projects
 
-### 🎵 Music Recommendation System (Still in progress...)  
+### 🎵 Music Recommendation System 
+Music recommendation engine using collaborative filtering and content-based techniques.
+[Repository Link](https://github.com/patoG2001/Music-Recommendation-system)
 
 ---
 
 ### 🎟 Event Ticketing Analytics  
-Predictive analytics with interactive Power BI dashboards forecasting ticket sales trends.  
-[Repository Link](https://github.com/yourusername/event-ticketing-analytics)  
+Ticket system for my band, Anomalia. Fulfilling the needs and flexibility that we have as an independent band in Mexico City.  
+[Repository Link](https://github.com/patoG2001/ticket_system)  
 
 ---
 
-### 🧠 Deep Learning Image Classifier  
+### Book Recommendation System
+Book recommendation engine using collaborative filtering techniques implemented with the Surprise library.
+[Repository Link](https://github.com/patoG2001/Book-Recommendation-system)
+
+### 🧠 Facial Emotion Detection with Deep Learning
 CNN model achieving >90% accuracy on complex image datasets.  
-[Repository Link](https://github.com/yourusername/deep-learning-image-classifier)  
+[Repository Link](https://github.com/patoG2001/Facial-Emotion-Detection-with-Deep-Learning)  
 
 ---
 
@@ -71,5 +77,6 @@ CNN model achieving >90% accuracy on complex image datasets.
 ---
 
 *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+
 
 
