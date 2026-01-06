@@ -43,7 +43,7 @@ Music recommendation engine using collaborative filtering and content-based tech
 
 ---
 
-### 🎟 Independent Ticket System  
+### 🎟 Ticket System  
 Ticket system for my band, Anomalia. Fulfilling the needs and flexibility that we have as an independent band in Mexico City.  
 [Repository Link](https://github.com/patoG2001/ticket_system)  
 
@@ -77,6 +77,7 @@ CNN model achieving >90% accuracy on complex image datasets.
 ---
 
 *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+
 
 
 
